@@ -7,6 +7,6 @@ This project focuses on building a machine learning model for the detection of b
 
 **Machine Learning Algorithms Used**
 
-Decision Tree
-Random Forest
-K-Nearest Neighbors (KNN)
+Decision Tree,
+Random Forest,
+K-Nearest Neighbors (KNN),
