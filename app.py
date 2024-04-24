@@ -46,7 +46,7 @@ def prediction():
     return render_template("predict.html",prediction_text="The patient is {}".format(prediction1))'''
 
 if __name__=="__main__":
-    app.run(debug=True)
+    app.run(debug=True,host='0.0.0.0',port=5000)
 
 '''
 <video autoplay loop muted plays-inline class="back-video">
